@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kesar Chanana</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cloud+Engineer;DevOps+Fanatic;AWS+%7C+Azure+%7C+CI%2FCD;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;AWS+%7C+Azure+%7C+CI%2FCD;Welcome+to+my+GitHub!">
 </p>
 
 <h3 align="center">Software Developer</h3>
