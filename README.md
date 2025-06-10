@@ -6,6 +6,11 @@
 
 <h3 align="center">Software Developer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kesar-Chanana&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -47,13 +52,31 @@ Let’s connect!
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kesar-chanana/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kesar-chanana/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/kesar1210/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kesar-Chanana&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kesar-Chanana&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesar-Chanana&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🔗 Portfolio
 
-🚧 **Portfolio Website Coming Soon**
+🌐 [**Portfolio Website**](https://kesar-portfolio.netlify.app/)  
+📄 [**View Resume**](https://kesar-chanana.github.io/Resume/Kesar_Chanana_Resume.pdf)
 
 ---
 
